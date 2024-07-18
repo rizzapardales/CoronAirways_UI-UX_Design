@@ -1,7 +1,5 @@
 # CoronAirways
 
-## Description
-
 CoronAirways is a travel agency that specializes in providing exceptional travel experiences. This project is a personal endeavor to design and develop a website for CoronAirways. 
 
 ## Purpose
